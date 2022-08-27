@@ -5,7 +5,8 @@ This is a basic html page designed with css to look like Mark Rothko painting
 
 > Rothko's work is characterized by rigorous attention to formal elements such as color, shape, balance, depth, composition, and scale; yet, he refused to consider his paintings solely in these terms. He explained: "It is a widely accepted notion among painters that it does not matter what one paints as long as it is well painted. This is the essence of academicism. There is no such thing as good painting about nothing."
 
-This is how my painting looks 
+This is what i made in css :
+
 <img width="594" alt="Screen Shot 2022-08-28 at 2 30 39 AM" src="https://user-images.githubusercontent.com/100453330/187051427-d09d9daf-eca0-4fe3-a4d4-d2194a300007.png">
 
 
